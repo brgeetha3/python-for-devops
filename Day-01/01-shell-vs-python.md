@@ -16,7 +16,7 @@ Certainly! The choice between using shell scripting and Python in DevOps depends
 
 1. **Complex Logic:** Python is a full-fledged programming language and is well-suited for tasks that _**involve complex logic, data structures, and algorithms**_. If your task requires extensive data manipulation, Python can be a more powerful choice.
 
-2. **Cross-Platform Compatibility:** Python is more platform-independent than shell scripting, making it a _**better choice for tasks that need to run on different operating systems.**_
+2. **Cross-Platform Compatibility:** Python is _**more platform-independent than shell scripting**_, making it a _**better choice for tasks that need to run on different operating systems.**_
 
 3. **API Integration:** Python has _**extensive libraries and modules for interacting with APIs, databases, and web services.**_ If your task involves working with APIs, Python may be a better choice.
 
